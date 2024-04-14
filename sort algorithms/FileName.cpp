@@ -56,6 +56,5 @@ int main() {
 	bubble_sort(a, length);
 	selection_sort(b, length);
 	std::cout << "next algorithms should be soon\n";
-	int A;
 	return 0;
 }
